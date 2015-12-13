@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="35" tileheight="35" nextobjectid="1">
+ <tileset firstgid="1" name="Ruined City Background Preview" tilewidth="35" tileheight="35" spacing="1" tilecount="286">
+  <image source="assets/City Background/Ruined City Background Preview.png" trans="ff0018" width="480" height="800"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJydz+fXyHUAxuHnibKSvfceFZpmMrNlS7ISQsneI8ome5QZyl6lUPbIFopQKXtvZaRx/QHP78W3c+7r7X3OJ1lMTExyUpCSVKQmDWlJR3oykJFMZCYLWclGdnKQk1zkJg95yUcCEpKIxCT5Hx/5KUBBnuQpnqYQhSnCMzzLczwf0RH68QIvUpRiFKcEJSnFS5TmZcpQNqIj9KMc5alARV6hEpWpQlWqUZ0a1IzoCP14lVrUpg51qUd9GtCQ12jE6zSO6Aj9eIMmNKUZzWnBm7TkLVrRmja8HdER+tGWdrTnHd6lA+/RkU50pgtd6RbREfrRnR70pBe96UNf+tGfAbzPQAZFdIR+fMCHDGYIQxnGcEYwklGM5iPGRHSEfoxlHOOZwEQmMZkpTOVjPmEa0yM6Qj9mMJNZzOZT5jCXeXzG58xnAQsjOkI/FrGYJSxlGctZwUq+4EtW8RVfR3SEfqxmDWv5hm9Zx3o2sJFNbGYLWyM6Qj+2sZ3v2MFOdrGbPexlH/v5ngMRHaEfBznED/zIYY7wE0c5xnF+5hd+jegI/TjBb/zOSU5xmjOc5RznucBFLkV0hH5c5gpXucZ1bnCTW9zmDn/wJ3cjOkI/7nGfB/zFQ/7mH/4lJtZ4hHjEj427I/TjUR4jAQlJRGKS8DhJeYJkJCdFbNwdoR8pSUVq0pCWdKQnAxnJRGaykDU27o7/AIL2Jvc=
+  </data>
+ </layer>
+</map>
